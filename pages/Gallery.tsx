@@ -69,13 +69,13 @@ const Gallery: React.FC = () => {
 
   const transformations = [
     {
-      before: '/public/kleenit/WhatsApp Image 2026-02-17 at 3.54.02 PM.jpeg', // Gritty floor
-      after: '/public/kleenit/const_after.jpeg', // Clean floor
+      before: '/kleenit/WhatsApp Image 2026-02-17 at 3.54.02 PM.jpeg', // Gritty floor
+      after: '/kleenit/const_after.jpeg', // Clean floor
       label: 'Post-Construction Floor Polishing'
     },
     {
-      before: '/public/kleenit/roombefore.jpeg', // Messy kitchen
-      after: '/public/kleenit/roomafter.jpeg', // Clean kitchen
+      before: '/kleenit/roombefore.jpeg', // Messy kitchen
+      after: '/kleenit/roomafter.jpeg', // Clean kitchen
       label: 'Deep Room cleaning'
     }
   ];
@@ -84,7 +84,7 @@ const Gallery: React.FC = () => {
     { url: '/kleenit/livingroom.jpg', title: 'Residential Living Room' },
     { url: '/kleenit/kitchen.jpg', title: 'Sparkling Kitchen' },
     { url: '/kleenit/office.jpg', title: 'Modern Office Space' },
-    { url: '/toilet.jpg', title: 'Commercial Restroom' },
+    { url: '/kleenit/toilet.jpg', title: 'Commercial Restroom' },
     { url: '/kleenit/warehouse.jpg', title: 'Industrial Floor Cleaning' },
     { url: '/kleenit/equip.jpg', title: 'Professional Equipment' },
     { url: '/kleenit/attention.jpg', title: 'Attention to Detail' },
