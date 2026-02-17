@@ -24,7 +24,7 @@ export const SERVICES = [
     fullDescription: 'Our residential team treats your home with the utmost care. From dusting to deep bathroom sanitization, we ensure every corner is spotless.',
     icon: <Home className="w-8 h-8 text-blue-900" />,
     features: ['Living Areas & Bedrooms', 'Kitchen Deep Clean', 'Bathrooms & Toilets', 'Floor Polishing'],
-    image: '/public/kleenit/residentail_serive.jpg'
+    image: '/kleenit/residentail_serive.jpg'
   },
   {
     id: 'commercial',
@@ -33,7 +33,7 @@ export const SERVICES = [
     fullDescription: 'We provide reliable janitorial services for offices, banks, and retail spaces. Create a lasting impression on your clients with a pristine workspace.',
     icon: <Building2 className="w-8 h-8 text-blue-900" />,
     features: ['Desk & Workstation Sanitization', 'Common Area Maintenance', 'Restroom Management', 'Trash Removal'],
-    image: '/public/kleenit/commercial clean.jpg'
+    image: '/kleenit/commercial clean.jpg'
   },
   {
     id: 'post-construction',
@@ -42,7 +42,7 @@ export const SERVICES = [
     fullDescription: 'Construction leaves a mess. We specialize in removing fine dust, paint splatters, and debris to make your new property move-in ready.',
     icon: <HardHat className="w-8 h-8 text-blue-900" />,
     features: ['Debris Removal', 'Fine Dust Extraction', 'Window scraping/cleaning', 'Floor Scrubbing'],
-    image: '/public/kleenit/post construction service.jpg'
+    image: '/kleenit/post construction service.jpg'
   },
   {
     id: 'deep-cleaning',
@@ -51,7 +51,7 @@ export const SERVICES = [
     fullDescription: 'A top-to-bottom clean that targets areas often missed during regular cleaning. Perfect for end-of-tenancy or spring cleaning.',
     icon: <Sparkles className="w-8 h-8 text-blue-900" />,
     features: ['Behind Appliances', 'Inside Cabinets', 'Grout Cleaning', 'Light Fixtures'],
-    image: '/public/kleenit/deep.jpg'
+    image: '/kleenit/deep.jpg'
   },
   {
     id: 'fumigation',
@@ -60,7 +60,7 @@ export const SERVICES = [
     fullDescription: 'Protect your property from pests. Our licensed fumigation experts use safe chemicals to eliminate mosquitoes, rodents, and other pests.',
     icon: <Bug className="w-8 h-8 text-blue-900" />,
     features: ['Mosquito Control', 'Rodent Elimination', 'Termite Treatment', 'Preventative Spraying'],
-    image: '/public/kleenit/pest control.jpg'
+    image: '/kleenit/pest control.jpg'
   },
   {
     id: 'upholstery',
@@ -69,7 +69,7 @@ export const SERVICES = [
     fullDescription: 'We remove stains, odors, and allergens from your sofas, carpets, and mattresses using industrial-grade steam cleaning equipment.',
     icon: <Armchair className="w-8 h-8 text-blue-900" />,
     features: ['Steam Cleaning', 'Stain Removal', 'Odor Neutralization', 'Fabric Protection'],
-    image: '/public/kleenit/carpet.jpg'
+    image: '/kleenit/carpet.jpg'
   }
 ];
 

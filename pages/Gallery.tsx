@@ -81,21 +81,21 @@ const Gallery: React.FC = () => {
   ];
 
   const images = [
-    { url: '/public/kleenit/livingroom.jpg', title: 'Residential Living Room' },
-    { url: '/public/kleenit/kitchen.jpg', title: 'Sparkling Kitchen' },
-    { url: '/public/kleenit/office.jpg', title: 'Modern Office Space' },
-    { url: '/public/kleenit/toilet.jpg', title: 'Commercial Restroom' },
-    { url: '/public/kleenit/warehouse.jpg', title: 'Industrial Floor Cleaning' },
-    { url: '/public/kleenit/equip.jpg', title: 'Professional Equipment' },
-    { url: '/public/kleenit/attention.jpg', title: 'Attention to Detail' },
-    { url: '/public/kleenit/2fb3d53420eb06a19b5c1e2f361b8048.jpg', title: 'Post-Construction Finish' },
+    { url: '/kleenit/livingroom.jpg', title: 'Residential Living Room' },
+    { url: '/kleenit/kitchen.jpg', title: 'Sparkling Kitchen' },
+    { url: '/kleenit/office.jpg', title: 'Modern Office Space' },
+    { url: '/toilet.jpg', title: 'Commercial Restroom' },
+    { url: '/kleenit/warehouse.jpg', title: 'Industrial Floor Cleaning' },
+    { url: '/kleenit/equip.jpg', title: 'Professional Equipment' },
+    { url: '/kleenit/attention.jpg', title: 'Attention to Detail' },
+    { url: '/kleenit/2fb3d53420eb06a19b5c1e2f361b8048.jpg', title: 'Post-Construction Finish' },
   ];
 
   return (
     <div className="pt-20">
       <section className="bg-slate-50 dark:bg-slate-900 py-24 text-center relative overflow-hidden transition-colors duration-300">
         <div className="absolute inset-0 opacity-5 dark:opacity-10">
-          <img src="/public/kleenit/carpet.jpg" className="w-full h-full object-cover" alt="" />
+          <img src="/kleenit/carpet.jpg" className="w-full h-full object-cover" alt="" />
         </div>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
           <h1 className="text-5xl md:text-7xl font-black text-blue-900 dark:text-blue-100 mb-6 tracking-tight">Visual Results</h1>
