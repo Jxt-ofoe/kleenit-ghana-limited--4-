@@ -76,5 +76,5 @@ export const SERVICES = [
 export const TESTIMONIALS = [
   { name: "Sarah O.", role: "Homeowner, East Legon", text: "The team was punctual and incredibly thorough. My house hasn't looked this good in years!", rating: 5 },
   { name: "Kwame A.", role: "Office Manager", text: "Kleenit handles our office cleaning in Airport City. Professional, trustworthy, and invisible in the best way.", rating: 5 },
-  { name: "Ama D.", role: "Real Estate Agent", text: "I use them for all my move-out cleanings. They ensure I get my deposit back every time.", rating: 4 }
+  { name: "Ama M.", role: "Real Estate Agent", text: "I use them for all my move-out cleanings. They ensure I get my deposit back every time.", rating: 4 }
 ];
